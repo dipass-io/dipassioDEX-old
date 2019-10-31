@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="280px" height="190px" viewBox="0 0 280 190" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M279.774052,0 L280,0 L280,1.49562776 C279.926091,0.99824723 279.850775,0.499704642 279.774052,0 Z M280,70.266397 L280,190 L0,190 L0,187.568759 C13.213272,178.795065 28.2214502,170.672335 44.8503921,164.58822 C109.652677,140.878679 188.744763,171.593342 240.293407,134.623006 C261.278794,119.57243 274.514325,98.1202266 280,70.266397 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="shape" fill="#FFFFFF" xlink:href="#path-1"></use>
+    </g>
+</svg>
